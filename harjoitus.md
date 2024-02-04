@@ -48,13 +48,13 @@ Valitse Upbeat Electric Piano 02 ja vedä se ensimmäisen raidan alkuun.
 
 Voit aina kuunnella kappaletta painamalla Välilyönti-näppäintä, samasta pysäytetään kuuntelu. Rivinvaihtonäppäimellä palaat helpoiten alkuun, toki myös yläreunan kuvakkeista nämä asiat voi tehdä. 
 
-##Lisätään audio-looppi
+## Lisätään audio-looppi
 
 Lisätäksesi looppeja voit vain vetää uuden loopin arrange-ikkunaan tekemättä ensin uutta raitaa. Uusi raita muodostuu automaattisesti. Kirjoita Looppi-selaimen hakukenttään Get Funky ja vedä Get Funky Break tahdin kolme alkuun. 
 
 ![Näyttökuva 2024-2-4 kello 20 04 21](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/25932aec-eeaa-4949-b60e-5d25a0aee72a)
 
-##Loopataan looppia
+## Loopataan looppia
 
 Kun viet hiiren osoittimen loopin lopun reunan tietämiin, se muuttuu yläreunassa silmukaksi. Kun painat hiiren napin pohjaan ja vedät siitä oikealle, voit loopata looppia eli kerrata sitä niin monta kertaa kuin haluat. Voit loopata myös vain osan matkaa. Loopin lopun alareunassa osoitin muuttuu tällaiseksi <]>, jolla voit lyhentää looppia. Myös sitä lyhennettyä voi sitten loopata sellaisenaan. 
 
@@ -64,7 +64,7 @@ Nyt vedä ensin pianolooppi tahdin kahdeksan loppuun ja tee sitten sama rumpurai
 
 ![Näyttökuva 2024-2-4 kello 20 19 11](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/005ef9de-ad54-4601-95aa-a8448e6bdb63)
 
-##Tättärää!
+## Tättärää!
 
 Lisätään torvia. Kirjoita looppiselaimeen RnB Horn, valitse RnB Horn Section 02 ja vedä se ihan kappaleen alkuun. 
 
@@ -84,7 +84,7 @@ Tämän jälkeen vie hiiren osoitin torviloopin tahdin seitsemän alkuun, jolloi
 
 Muista tallentaa tasaisin väliajoin työsi, ettei mitään mene hukkaan. Se taphtuu nopeiten painamalla cmd+S. Toki se löytyy myös Arkisto-valikosta. Ylipäätään valikoissa käydessä kannattaa huomioida pikanäppäin-yhdistelmät, jotka näkyvät aina tekstin jälkeen, jos kyseiselle toiminnolle on määritelty pikakomento. 
 
-##Bassoa!
+## Bassoa!
 
 Rytmimusa ei kuulosta kovinkaan tasapainoiselta ilman bassoa. Basso voidaan tuottaa monin eri tavoin. Nyt aloitetaan peukkubassolla ja valitaan Boogie Right Slap Bass 02 tahtiin 5. Se kuitenkin kuulostaa kovin matalalta tällaiseen musiikkityyliin, joten nostetaan sitä oktaavilla. Voit joko kaksoisklikata bassolooppia, painaa sen ollessa valittuna kirjanta E tai painaa vasemmassa yläreunassa olevaa kynän kuvaa. Tällöin editori-ikkuna aukeaa. Vedä liukusäätimestä Transponoinnin arvoksi 12. Yksi numero on puoli sävelaskelta, joten oktaavi on 12 puolisävelaskelta.
 
@@ -98,6 +98,26 @@ Nyt alkaa ensimmäinen osa olla aika hyvä, mutta lisätään siihen vielä päh
 
 ![Näyttökuva 2024-2-4 kello 22 05 30](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/58b1c406-e004-46ff-bc49-c212fe57b5dd)
 
-##Lisää osia
+## B-osa
 
+Nyt olemme saaneet 8 tahtia uutta kappaletta aikaiseksi. Se on aika vähän, joten on aika tehdä biisiä lisää. Koska tätä nk. A-osaa on vielä aika vähän, sitä voisi olla enemmänkin, mutta meidän ei tarvitse vielä olla siitä huolisaan, vaan siirrytään B-osan kimppuun. 
 
+Nyt halutaan meininkiin vaihtelua, joten valitaan vaikka ensin jälleen piano-osuus. The Way Piano Progression kuulostaa varsin hyvälle ja sille voidaan samantien ottaa kaveriksi seuraavalle raidalle The Way Piano Bass 1. Nämä 8 tahdin mittaiset loopit täytyy taas ensin ladata ja sitten vedetään ne alkamaan tahdista 9.
+
+Tässä vaiheessa kannattaa opetella myös zoomin käyttö. Työtilan oikeassa yläkulmassa tahtinumerojanan päällä osittain (tuolla kursorin ja looppiselaimen välissä) on zoom-liuku, jota siirtämällä oikealle ja vasemmalle saadaan kuvaa lähemmäs tai kauemmas riippuen siitä, mitä halutaan tehdä. Nyt kun biisi pitenee, itse haluan nähdä kokonaisuuden kerralla, joten "zoomaan ulos". 
+
+![Näyttökuva 2024-2-4 kello 22 15 32](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/6f5da193-9301-4449-8ae9-2b871bbbb8fa)
+
+## Elävämpää rumpujensoittoa!
+
+Loopit ovat helppo tapa saada uskottavan kuuloisia rumpukomppeja omiin kappaleisiin, koska rumpujen soittaminen ei olekaan niin helppoa kuin miltä se näyttää ja rumpujen äänittäminenkään ei ole helppoa eikä useinkaan edes mahdollista. Loopit eivät kuitenkaan ole vastaus kaikkeen, vaan GB tarjoaa myös Drummer-vaihtoehdon. Valitse joko vasemmasta yläkulmasta ensimmäisen raidan yläpuolelta + merkki, josta tulee uusi raita tai valikosta "Uusi raita" tai sitä vastaavalla pikakomennolla alt+cmd+N. 
+
+![Näyttökuva 2024-2-4 kello 22 21 22](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/b2c35e72-9869-44cf-b4d0-4f7aca58c864)
+
+Valitse sitten Drummer ja "Valitse" tai kaksoisklikkaa Drummer-kuvaketta. Soitto tulee biisin alkuun, mutta raahaa se alkamaan tahdista 9.
+
+![Näyttökuva 2024-2-4 kello 22 27 02](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/ca048db2-2216-446e-82ff-016b098dd25d)
+
+Jos nyt klikkaat kursorin tahtiin 9 ja painat välilyöntiä kuunnellaksesi B-osan, niin ihan hyvältähän se kuulostaa. Ei kuitenkaan tyydytä tähän, koska pianossa ja bassossa on nk. half-time -meininki. Niinpä siirretään "Basso ja virveli" -nappula kohtaan 7 (jonka alla lukee 1/2), siirretään "X/Y-padissa" palloa oikealle saadaksemme soitosta vähän monimutkaisempaa ja käännetään vielä Fillit potikkaa isommalle esim. klo 12:sta kohti, jolloin rumpali fillailee enemmän, mutta vielä hyvän maun rajoissa. 
+
+![Näyttökuva 2024-2-4 kello 22 31 37](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/807ae248-c25c-44dc-9dde-008c2a256b53)
