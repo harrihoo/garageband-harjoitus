@@ -82,3 +82,22 @@ Tämän jälkeen vie hiiren osoitin torviloopin tahdin seitsemän alkuun, jolloi
 
 ![Näyttökuva 2024-2-4 kello 20 40 44](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/e46c134c-251a-4926-8115-a46b28af4807)
 
+Muista tallentaa tasaisin väliajoin työsi, ettei mitään mene hukkaan. Se taphtuu nopeiten painamalla cmd+S. Toki se löytyy myös Arkisto-valikosta. Ylipäätään valikoissa käydessä kannattaa huomioida pikanäppäin-yhdistelmät, jotka näkyvät aina tekstin jälkeen, jos kyseiselle toiminnolle on määritelty pikakomento. 
+
+##Bassoa!
+
+Rytmimusa ei kuulosta kovinkaan tasapainoiselta ilman bassoa. Basso voidaan tuottaa monin eri tavoin. Nyt aloitetaan peukkubassolla ja valitaan Boogie Right Slap Bass 02 tahtiin 5. Se kuitenkin kuulostaa kovin matalalta tällaiseen musiikkityyliin, joten nostetaan sitä oktaavilla. Voit joko kaksoisklikata bassolooppia, painaa sen ollessa valittuna kirjanta E tai painaa vasemmassa yläreunassa olevaa kynän kuvaa. Tällöin editori-ikkuna aukeaa. Vedä liukusäätimestä Transponoinnin arvoksi 12. Yksi numero on puoli sävelaskelta, joten oktaavi on 12 puolisävelaskelta.
+
+![Näyttökuva 2024-2-4 kello 21 45 45](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/f93dc570-3766-40f6-96c7-c820a38f89d7)
+
+Nyt kuulostaa tähän tarkoitukseen paljon paremmalta. Tätä looppia ei kuitenkaan kannata jatkaa pidemmälle, sillä pianossa sointu vaihtuu puolivälissä looppia ja bassoloopin jatkaminen sellaisenaan kuulostaisi vähän erikoiselta. Ei mahdotonta, mutta erikoista. Sen sijaan valitaan Boogie Right Slap Bass 01, joka vedetään samalle raidalle tahtiin 7 ja venytetään kahden tahdin mittaiseksi eli kuvio toistuu kaksi kertaa päättyen tahdin 8 loppuun.
+
+![Näyttökuva 2024-2-4 kello 21 56 03](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/ab4f9083-ba41-4555-9a0d-57cda0152ae0)
+
+Nyt alkaa ensimmäinen osa olla aika hyvä, mutta lisätään siihen vielä pähän "perkkaa" eli rytmisoittimia. Valitaan looppiselaimesta Quincy Conga 1. Se näkyy kyllä selaimessa, mutta harmaana, joten nyt täytyy painaa sitä ympyrän sisällä olevaa nuolta, jotta ohjelma lataa loopin. Itse asiassa se tällä kertaa lataa kaikki Quincyn soittamat perkat samalla kertaa. Ohjelmiston asennukseen täytyy antaa käyttäjän salasana. Voit halutessasi muokata tätä Drummer-raitaa editorilla, mutta se kelpaa ihan muuttamattakin tähän tarkoitukseen. Looppi on kuitenkin 8 tahtia pitkä, joten se pitää vielä lyhentää 4 tahdin mittaiseksi päättymään tahdin 8 loppuun eli juuri ennen numeroa 9.
+
+![Näyttökuva 2024-2-4 kello 22 05 30](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/58b1c406-e004-46ff-bc49-c212fe57b5dd)
+
+##Lisää osia
+
+
