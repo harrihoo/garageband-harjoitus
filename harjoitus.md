@@ -33,3 +33,14 @@ Viimeistään tässä vaiheessa on syytä tallentaa tekeillä oleva teos nimell�
 Oikeassa ylänurkassa on Muistivihko ja Looppiselain (O). Valitse silmukan kuvasta Looppiselain tai paina O. 
 
 <img width="133" alt="Kuva 3" src="https://github.com/harrihoo/garageband-harjoitus/assets/158834519/d3af1ae6-74ef-4882-9291-e257ac0c4980">
+
+Looppiselaimesta voit etsiä looppeja eli silmukoita eri tavoin. Voit hakea instrumenteittain, genreittäin, erilaisin määritteiden perusteella tai sitten kirjoittamalla hakukenttään haluamasi. Kirjoita nyt hakukenttää "upbeat" ja seuraavanlainen näkymä aukeaa
+
+![Näyttökuva 2024-2-4 kello 18 44 57](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/43a93075-6b11-423c-8ad5-2e2575c0c9ad)
+
+Loopin edessä oleva kuvake kertoo loopin tyypin. Keltainen kuvake tarkoittaa GB:n Drummeria, vihreä MIDI-looppia ja sininen oikeaa ääntä. Klikkaamalla loopin nimeä kone soittaa sitä looppia niin kauan kunnes uudestaan klikkaamalla pysäytät sen tai klikkaat jotain toista looppia. Harmaammat tekstit tarkoittavat sitä, ettei niitä ole vielä ladattu koneelle, mutta ne ovat saatavilla. Ympyröityä nuolta painamalla voit ladata kyseisen loopin koneelle. Iskut tarkoittaa loopin pituutta. 4 tarkoittaa yhden tahdin mittaista looppia 4/4-tahtilajissa, 8 kahden tahdin ja 16 neljän tahdin mittaista jne. Isku-sarakkeen jälkeen voit rastittaa "sydän"-sarakkeeseen suosikkisi, jotta löydät myöhemmin ne helpostiyläreunan sydän-kuvakkeesta. 
+
+Valitse Upbeat Electric Piano 02 ja vedä se ensimmäisen raidan alkuun. 
+
+![Näyttökuva 2024-2-4 kello 18 46 03](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/f25b786b-d421-4912-a5f5-0ed0fb6d05a6)
+
