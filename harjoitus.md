@@ -38,9 +38,47 @@ Looppiselaimesta voit etsiä looppeja eli silmukoita eri tavoin. Voit hakea inst
 
 ![Näyttökuva 2024-2-4 kello 18 44 57](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/43a93075-6b11-423c-8ad5-2e2575c0c9ad)
 
-Loopin edessä oleva kuvake kertoo loopin tyypin. Keltainen kuvake tarkoittaa GB:n Drummeria, vihreä MIDI-looppia ja sininen oikeaa ääntä. Klikkaamalla loopin nimeä kone soittaa sitä looppia niin kauan kunnes uudestaan klikkaamalla pysäytät sen tai klikkaat jotain toista looppia. Harmaammat tekstit tarkoittavat sitä, ettei niitä ole vielä ladattu koneelle, mutta ne ovat saatavilla. Ympyröityä nuolta painamalla voit ladata kyseisen loopin koneelle. Iskut tarkoittaa loopin pituutta. 4 tarkoittaa yhden tahdin mittaista looppia 4/4-tahtilajissa, 8 kahden tahdin ja 16 neljän tahdin mittaista jne. Isku-sarakkeen jälkeen voit rastittaa "sydän"-sarakkeeseen suosikkisi, jotta löydät myöhemmin ne helpostiyläreunan sydän-kuvakkeesta. 
+Loopin edessä oleva kuvake kertoo loopin tyypin. Keltainen kuvake tarkoittaa GB:n Drummeria, vihreä MIDI-looppia ja sininen oikeaa ääntä. Klikkaamalla loopin nimeä kone soittaa sitä looppia niin kauan kunnes uudestaan klikkaamalla pysäytät sen tai klikkaat jotain toista looppia. 
+
+Harmaammat tekstit tarkoittavat sitä, ettei niitä ole vielä ladattu koneelle, mutta ne ovat saatavilla. Ympyröityä nuolta painamalla voit ladata kyseisen loopin koneelle. Iskut tarkoittaa loopin pituutta. 4 tarkoittaa yhden tahdin mittaista looppia 4/4-tahtilajissa, 8 kahden tahdin ja 16 neljän tahdin mittaista jne. Isku-sarakkeen jälkeen voit rastittaa "sydän"-sarakkeeseen suosikkisi, jotta löydät myöhemmin ne helpostiyläreunan sydän-kuvakkeesta. 
 
 Valitse Upbeat Electric Piano 02 ja vedä se ensimmäisen raidan alkuun. 
 
 ![Näyttökuva 2024-2-4 kello 18 46 03](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/f25b786b-d421-4912-a5f5-0ed0fb6d05a6)
+
+Voit aina kuunnella kappaletta painamalla Välilyönti-näppäintä, samasta pysäytetään kuuntelu. Rivinvaihtonäppäimellä palaat helpoiten alkuun, toki myös yläreunan kuvakkeista nämä asiat voi tehdä. 
+
+##Lisätään audio-looppi
+
+Lisätäksesi looppeja voit vain vetää uuden loopin arrange-ikkunaan tekemättä ensin uutta raitaa. Uusi raita muodostuu automaattisesti. Kirjoita Looppi-selaimen hakukenttään Get Funky ja vedä Get Funky Break tahdin kolme alkuun. 
+
+![Näyttökuva 2024-2-4 kello 20 04 21](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/25932aec-eeaa-4949-b60e-5d25a0aee72a)
+
+##Loopataan looppia
+
+Kun viet hiiren osoittimen loopin lopun reunan tietämiin, se muuttuu yläreunassa silmukaksi. Kun painat hiiren napin pohjaan ja vedät siitä oikealle, voit loopata looppia eli kerrata sitä niin monta kertaa kuin haluat. Voit loopata myös vain osan matkaa. Loopin lopun alareunassa osoitin muuttuu tällaiseksi <]>, jolla voit lyhentää looppia. Myös sitä lyhennettyä voi sitten loopata sellaisenaan. 
+
+![Näyttökuva 2024-2-4 kello 20 12 03](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/0f5e0833-944b-4e0f-a64a-1f327d8c2e78)
+
+Nyt vedä ensin pianolooppi tahdin kahdeksan loppuun ja tee sitten sama rumpuraidalle.
+
+![Näyttökuva 2024-2-4 kello 20 19 11](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/005ef9de-ad54-4601-95aa-a8448e6bdb63)
+
+##Tättärää!
+
+Lisätään torvia. Kirjoita looppiselaimeen RnB Horn, valitse RnB Horn Section 02 ja vedä se ihan kappaleen alkuun. 
+
+![Näyttökuva 2024-2-4 kello 20 24 53](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/99fff30f-ba5c-45ca-b9c4-2ba5fd37f70b)
+
+Jos kuuntelet kappaletta ja pysäytät toiston tahdin viisi alkuun, niin pitkä kursori on jo valmiiksi oikealla paikalla. Vaihtoehtoisesti voit klikata yläreunan janalta numeron viisi hieman vasemmalta alapuolelta pitkän viivan kohdalta iskujanaa. Pitkä viiva on aina tahdin alku, isku 1, lyhyemmät viivat iskut 2,3 ja 4. Voit myös näytöstä klikata numerot siten, että siinä lukee 5.1. Tarkoittaa siis tahdin 5 ensimmäistä iskua. 
+
+![Näyttökuva 2024-2-4 kello 20 27 31](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/16cc6e2a-5866-4f41-a629-08ab8405de4b)
+
+Vedä nyt sama RnB Horn Section 02 -looppi tahdin 5 alkuun ja uudestaan tahdin 7 alkuun. Ei siis nyt loopata looppia, vaan asetellaan kaksi peräkkäistä samaa looppia.
+
+![Näyttökuva 2024-2-4 kello 20 34 32](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/f13f437d-6ee4-4a29-95cb-2798cfed2c7d)
+
+Tämän jälkeen vie hiiren osoitin torviloopin tahdin seitsemän alkuun, jolloin kursori muuttuu tällaiseksi <[>. Lyhennä nyt torvilooppia alusta siten, että vain kaksi viimeistä kääkkää jää jäljelle eli ääni kuuluu vain tahdin 8 kolmosiskulta lähtien (näytössä 8.3). Sen jälkeen poista vielä jälkimmäinen ta-da-da eli jäljelle jää vain yksi kääkkä kohtaan 8.3.
+
+![Näyttökuva 2024-2-4 kello 20 40 44](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/e46c134c-251a-4926-8115-a46b28af4807)
 
