@@ -74,9 +74,7 @@ Jos kuuntelet kappaletta ja pysäytät toiston tahdin viisi alkuun, niin pitkä 
 
 ![Näyttökuva 2024-2-4 kello 20 27 31](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/16cc6e2a-5866-4f41-a629-08ab8405de4b)
 
-Vedä nyt sama RnB Horn Section 02 -looppi tahdin 5 alkuun ja uudestaan tahdin 7 alkuun. Ei siis nyt loopata looppia, vaan asetellaan kaksi peräkkäistä samaa looppia.
-
-![Näyttökuva 2024-2-4 kello 20 34 32](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/f13f437d-6ee4-4a29-95cb-2798cfed2c7d)
+Vedä nyt sama RnB Horn Section 02 -looppi tahdin 5 alkuun. Ei siis nyt loopata looppia, vaan asetellaan kaksi peräkkäistä samaa looppia.
 
 Tämän jälkeen vie hiiren osoitin torviloopin kohtaan 8.3 ja vedä siihen RnB Horn Section 12. Vie sitten kursori loopin lopuun, jolloin kursori muuttuu tällaiseksi <]>. Lyhennä nyt torvilooppia siten, että jäljelle jää vain yksi kääkkä kohtaan 8.3.
 
