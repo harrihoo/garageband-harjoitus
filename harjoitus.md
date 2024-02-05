@@ -1,6 +1,6 @@
 # GarageBand harjoitus
 
-Tässä harjoituksessa opetellaan käyttämään GarageBand v10.4. -ohjelmaa tekemällä lyhyt esimerkkikappale.
+Tässä harjoituksessa opetellaan käyttämään GarageBand v10.4. -ohjelmaa tekemällä lyhyt esimerkkikappale. Tässä kappaleessa käytetään valmiita äänitiedostoja, eikä äänitetä mitään tai ohjelmoida MIDI-ääniä. 
 
 ## Aloitus
 
