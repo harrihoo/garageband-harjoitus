@@ -160,7 +160,7 @@ Eipä hätää. Mennään Sovitusraidan loppuun, jolloin kursori muuttuu tutuksi
 
 ![Näyttökuva 2024-2-4 kello 23 45 54](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/c1bcb748-55fc-450e-a2e8-82b22833afcc)
 
-Taas plussaillaan ja perään ilmestyy Kertosäe. Tällä kertaa meillä on 8 tahdin mittainen kertosäe, joten olemme suoraan tyytyväisiä siihen. Jos nyt haluaisimme vaihtaa osin paikkaa, siihen riittäisi Sovitusraidan osan nimestä kiinni tarttuminen ja osan vetäminen haluttuun paikkaan. Me olemme kuitenkin nyt sinänsä tyytyväisiä tähän järjestykseen, mutta A-osa voisi kertautua ennen B-osaa. Niinpä painamme ensin alt-näppäimen pohjaan ja sitten vedämme Säe-kohdasta oikealle, jolloin ohjelma kopioi säkeen ja niitä onkin kaksi peräkkäin ennen kertosäettä. Ja sovitusraidalla kopioiminen kopioi myös kaikki ääniraidat mukana.
+Taas plussaillaan ja perään ilmestyy Kertosäe. Tällä kertaa meillä on 8 tahdin mittainen kertosäe, joten olemme suoraan tyytyväisiä siihen. Jos nyt haluaisimme vaihtaa osin paikkaa, siihen riittäisi Sovitusraidan osan nimestä kiinni tarttuminen ja osan vetäminen haluttuun paikkaan. Me olemme kuitenkin nyt sinänsä tyytyväisiä tähän järjestykseen, mutta A-osa voisi kertautua ennen B-osaa. Niinpä painamme ensin optio-näppäimen pohjaan ja sitten vedämme Säe-kohdasta oikealle, jolloin ohjelma kopioi säkeen ja niitä onkin kaksi peräkkäin ennen kertosäettä. Ja sovitusraidalla kopioiminen kopioi myös kaikki ääniraidat mukana.
 
 ![Näyttökuva 2024-2-4 kello 23 50 18](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/3d40ebc7-7fb6-40e4-b052-f0ce700c6210)
 
