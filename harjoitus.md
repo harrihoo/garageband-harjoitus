@@ -1,4 +1,4 @@
-# GarageBand harjoitus
+<img width="1440" alt="Näyttökuva 2024-2-12 kello 18 01 52" src="https://github.com/harrihoo/garageband-harjoitus/assets/158834519/74edee72-4e35-4313-a184-3224b63f982b"># GarageBand harjoitus
 
 Tässä harjoituksessa opetellaan käyttämään GarageBand v10.4. -ohjelmaa tekemällä lyhyt esimerkkikappale. Tässä kappaleessa käytetään valmiita äänitiedostoja, eikä äänitetä mitään tai ohjelmoida MIDI-ääniä. 
 
@@ -217,6 +217,10 @@ Tällä uudella raidalla klikataan ihan viimeistä torvikääkkää ja painetaan
 Painetaan uudestaan B, jotta Smart Control poistuu näkyvistä. Lyhennetään vielä conga-komppia sen verran, että se loppuu ennen viimeistä torvikääkkää. Lisäksi lisätään vielä unohtunut pianojuttu. Kirjoitetaan looppiselaimeen Icebreak ja ladataan ja sen jälkeen lisätään Outroon Icebreak Piano Chords.
 
 ![Näyttökuva 2024-2-5 kello 0 42 55](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/68f63ee2-ab2d-431e-add1-e306e8e20cb6)
+
+Koska pianoraidalle voisi lisätä tueksi basson, niin tehdään uusi midiraita, valitaan ääneksi basso ja esim. Fingerstyle Bass. Sitten laitetaan looppaustoiminto päälle aikanäytön vasemmalta puolelta ja vedetään keltainen alue tuon Icebreak Piano Chordsin mittaiseksi. Vallitse Ikkuna-valikosta "Näytä sävelnäppäily" (Cmd + K). Sävelnäppäilyikkunasta voit vielä valmiiksi laskea oktaavilla soitettavaa aluetta ja ei muuta kuin äänitys päälle. Jos haluat sointuihin sopivat bassoäänet helposti, niin kaikki ovat g-säveliä, paitsi kolmas on fis. KUten huomaat sävelnäppäilyikkunasta, g-sävel tulee g-näppäimestä ja fis T-näppäimestä. Voit antaa loopin pyöriä niin kauan, kunnes olet tyytyväinen soittoosi. Voit tarvittaessa säätää sävelten osumista Editorilla ja esim. pianorulla-ikkunassa.
+
+<img width="1440" alt="Näyttökuva 2024-2-12 kello 18 01 52" src="https://github.com/harrihoo/garageband-harjoitus/assets/158834519/1bbaa0ca-7493-4c0d-aa03-da1330025117">
 
 Lopuksi suljetaan looppiselain ja mietitään vielä pikaisesti panorointeja. Rummut jää keskelle, muita sopivasti levittäen saadaan äänikuvaan avaruutta ja laajuutta. Bassot lähelle rumpuja, mutta eri puolelle kuin piano, torvet vähän leveämmälle, perkat enemmän reunaan, ehkä eri puolille. Lopuksi painetaan biisi alkuun ja kuunnellaan kokonaisuus!
 
