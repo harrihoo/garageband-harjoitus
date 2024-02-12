@@ -208,7 +208,9 @@ Poistetaan sähköpiano raidalta yksi ja lyhennetään rumpukomppi raidalla 2 ka
 
 Jaetaan vielä torviraita kohdasta 29.3.1. ja lyhennetään jälkimmäisestä osasta alku pois, jotta se torvijuttu jatkuu taas kohdasta 30.1.3.
 
-Vielä lopuksi klikataan ihan viimeistä torvikääkkää ja painetaan B. Smart Controllista avataan "Liitännäiset" ja säädetään Masterkaiku noin puoliväliin. 
+Kun torviraita on valittuna, tehdään jälleen uusi raita esim. painamalla plussaa (samalla tavalla kuin ihan alussa). Tällä kertaa valitaan "Mikrofoni tai linja" eli ääni ja uusi raita ilmestyy edellisen torviraidan alle. Vedä siihen edelliseltä raidalta kappaleen ihan viimeinen torvijuttu. 
+
+Tällä uudella raidalla klikataan ihan viimeistä torvikääkkää ja painetaan B. Smart Controllista avataan "Liitännäiset" ja säädetään Masterkaiku noin puoliväliin. 
 
 ![Näyttökuva 2024-2-5 kello 0 38 00](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/cd2d9ba3-d080-4a95-8805-7f9ad45ccc99)
 
