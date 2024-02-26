@@ -172,7 +172,7 @@ Sama homma tehdään B-osalle eli kopioidaan sekin tulemaan kahdesti peräkkäin
 
 Tällä kertaa haluamme kuitenkin muutaman muutoksen toiseen kertosäkeeseen. Mikään ei estä muuttamasta kopioitua osaa, poistamalla tai lisäämällä siihen elementtejä. Se ei muuta sitä aiempaa osaa ollenkaan, vaan näin saamme helposti kivaa vaihtelua muuten samanlaisiin osiin. 
 
-Nyt halutaan pianobassoon vähän lisää ajoittaista jytinää. Klikataan ensin The Way Piano Bass -raitaa ja sitten painetaan yläreunasta + merkkiä lisätäksemme uuden raidan. Näin ohjelma tekee uuden raidan aktivoidun alle eikä kaikkien raitojen alle. Raitojen järjetystä voi toki muuttaa jälkikäteen ihan vaan vetämällä, joten tämän voi tehdä monella eri tavalla. 
+Nyt halutaan pianobassoon vähän lisää ajoittaista jytinää. Klikataan ensin The Way Piano Bass -raitaa ja sitten painetaan yläreunasta + merkkiä lisätäksemme uuden sinisen "Ääniraidan". Näin ohjelma tekee uuden raidan aktivoidun alle eikä kaikkien raitojen alle. Raitojen järjetystä voi toki muuttaa jälkikäteen ihan vaan vetämällä, joten tämän voi tehdä monella eri tavalla. 
 
 ![Näyttökuva 2024-2-4 kello 23 58 25](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/2056d9f5-4aa2-4a96-b1be-561ee04f2be7)
 
