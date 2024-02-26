@@ -176,7 +176,7 @@ Nyt halutaan pianobassoon vähän lisää ajoittaista jytinää. Klikataan ensin
 
 ![Näyttökuva 2024-2-4 kello 23 58 25](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/2056d9f5-4aa2-4a96-b1be-561ee04f2be7)
 
-Sitten kopidoiaan The Way Piano Bass joko cmd+C, cmd+V -menetelmällä tai nopeammin painammalla alt pohjaan ja vetämällä kopioitava raita uudelle raidalle. Tämän jälkeen tämä uusi bassoraita transponoidaan oktaavilla alaspäin eli siirretään editori-ikkunassa transponointi-nappi arvoon -12.
+Sitten kopidoiaan The Way Piano Bass joko cmd+C, cmd+V -menetelmällä tai nopeammin painammalla optio/alt pohjaan ja vetämällä kopioitava raita uudelle raidalle. Tämän jälkeen tämä uusi bassoraita transponoidaan oktaavilla alaspäin eli siirretään editori-ikkunassa transponointi-nappi arvoon -12.
 
 ![Näyttökuva 2024-2-5 kello 0 01 05](https://github.com/harrihoo/garageband-harjoitus/assets/158834519/3abf26ae-bcc7-42b2-b378-615e0245195a)
 
